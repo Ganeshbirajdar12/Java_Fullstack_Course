@@ -30,7 +30,7 @@ public class CompareTo {
 		  {
 			  System.out.println(" Str2 is greter than Str1");
 		  }
-		  
+		                                                                          
 		  sc.close();
 	}
 
