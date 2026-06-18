@@ -14,9 +14,7 @@ public class Search_in_Array {
 			System.out.println("Enter your numbers: ");
 			arr[i] = sc.nextInt();
 		}
-		
-		
-		
+			
 		for(int i=0; i<arr.length; i++)
 		{
 			
