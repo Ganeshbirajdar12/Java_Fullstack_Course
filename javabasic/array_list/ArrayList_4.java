@@ -6,7 +6,7 @@ public class ArrayList_4 {
 		Scanner sc =  new Scanner(System.in);
 		List<Integer> list =  new ArrayList<>();
 		int num;
-		for(int i = 0; i<6; i++)
+		for(int i = 0; i<7; i++)
 		{
 			System.out.print("Enter the Number : ");
 			num = sc.nextInt();
