@@ -5,8 +5,8 @@ public class Employee {
 	int emp_id; 
 	String name;
 	String job_role ;
-	
 	String address;
+	
 	static String company_name = "Infosys";
 	
 	public Employee(int emp_id, String job_role, String address,String name) {
