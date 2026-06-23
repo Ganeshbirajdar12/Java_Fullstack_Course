@@ -1,4 +1,5 @@
 package abstraction;
+
 abstract class Employee1
 {
 	String name = "Rajesh";
